@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704852019886",
+    "firebase_url": "https://coffee-pedia.firebaseio.com",
+    "project_id": "coffee-pedia",
+    "storage_bucket": "coffee-pedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704852019886:android:5e742fcc44e5d9ca26bb3f",
+        "android_client_info": {
+          "package_name": "com.example.coffee_pedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704852019886-hfq7lhugg7go50s9acitvhe8lj2und20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXB9shMCy3RUa-D3rllwL7xQPea0uVeb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704852019886-hfq7lhugg7go50s9acitvhe8lj2und20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
